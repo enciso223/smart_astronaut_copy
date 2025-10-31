@@ -1,1 +1,1 @@
-# smart_astronaut_copy
+# smart_astronaut
